@@ -8,4 +8,4 @@ git config --global user.name "Vitalij"
 
 git config  --global user.email "vitalij.cernysiov@gmail.com"
 
-kazko naujo2
+kazko naujo
